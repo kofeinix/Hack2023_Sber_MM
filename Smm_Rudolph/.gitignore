@@ -1,0 +1,9 @@
+**/__pycache__
+lightning_logs
+.idea
+venv
+identifier.sqlite
+test_main.http
+checkpoints
+models
+files/market
